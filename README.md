@@ -2,14 +2,21 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** with **1.8 years** of professional experience in building robust backend systems and intuitive user interfaces. Coding isn't just my profession; it's my passion. I love turning complex problems into simple, beautiful solutions.
+I'm a passionate **Software Developer** with **2 years** of professional experience in building robust full-stack systems and intuitive user interfaces. Coding isn't just my profession; it's my passion. I love turning complex problems into simple, beautiful solutions.
 
-- 💻 **Currently working on:** Enhancing my skills in Django and React.js
-- 🌱 **Learning:** Advanced algorithms and exploring new JavaScript frameworks
-- 🎯 **2024 Goals:** Contribute to open-source projects and write technical blogs
-- ⚡ **Fun fact:** I'm a coffee enthusiast who believes a good cup of coffee and code make the perfect blend!
+- 💻 **Currently working on:** Enhancing my skills in Product Development, & Deployments.
+- 🌱 **Learning:** Advanced algorithms and exploring new AI Agentic solutions.
+- ⚡ **Fun fact:** I'm a coffee enthusiast who believes that a good cup of coffee accompanied by headphones and code makes the perfect blend!
 
 ## 💼 Professional Experience
+
+### 📌 Software Developer at HealthCRED _(Nov 2024 – Present)_
+
+- 🏗️ **Architected and deployed** a scalable **Loan Origination System (LOS)** using **Python, Django, Next.js, TypeScript, Tailwind CSS, and Celery**, reducing manual onboarding time by **75%** through end-to-end **KYC/KYB workflows** and automated loan application processing.
+- 🔐 Integrated **PAN, Aadhaar, GST, Udyam**, and **bank verifications** with **3 service providers**, implementing **modular API fail-over** strategies that ensured **99.9% uptime** for uninterrupted onboarding and credit checks.
+- 📄 Developed an **RBI-compliant** automated **loan agreement generator** using **KYC data mapping**, reducing document generation time by **70%**.
+- 🚀 Spearheaded **weekly deployments** using **Git → Vercel pipelines**, embedding **Digio e-signatures** and **Precisa bank-statement analysis**, achieving **50% faster feature rollouts**.
+
 
 ### 📌 Software Developer at LendAPI _(Feb 2024 - Oct 2024)_
 
@@ -29,7 +36,7 @@ I'm a passionate **Software Developer** with **1.8 years** of professional exper
 
 - 🏗️ Implemented full-stack features on dashboards for **Innovation Refunds**, a tax firm in Iowa, US.
 - 💻 Coded web pages and backend features using Python, Django, Bootstrap, HTML/CSS.
-- 🗄️ Utilized Django modules and PostgreSQL to fulfill tasks assigned via Jira.
+- 🗄️ Utilised Django modules and PostgreSQL to fulfil tasks assigned via Jira.
 
 ## 🛠️ Skills & Technologies
 
@@ -49,9 +56,8 @@ I'm a passionate **Software Developer** with **1.8 years** of professional exper
 
 ## 🌱 Currently Learning
 
-- Diving deeper into advanced Django features
-- Exploring new JavaScript frameworks
-- Solving medium to hard problems on LeetCode
+- Enhancing my skills in Product Development, & Deployments
+- Advanced algorithms and exploring new AI Agentic solutions
 
 ## 💡 Projects
 
